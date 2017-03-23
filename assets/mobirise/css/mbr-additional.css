@@ -413,6 +413,9 @@ h6,
   text-align: center;
   font-size: 14px;
 }
+#content1-8 PRE {
+  text-align: center;
+}
 #features4-5 .card-subtitle {
   color: #bcbcbc;
 }

@@ -46,6 +46,9 @@
             "P": {
               "text-align": "center",
               "font-size": "14px"
+            },
+            "PRE": {
+              "text-align": "center"
             }
           },
           "_anchor": "content1-8",
@@ -54,7 +57,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>click any student to retrieve current or historical data. &nbsp;click on a students icon and dowload your desired report</b></p>"
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; click any student to retrieve current or historical data.<b> &nbsp;</b></p>"
         },
         {
           "_styles": {
